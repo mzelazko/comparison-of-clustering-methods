@@ -46,8 +46,6 @@ The project workflow is structured as follows:
 
 ## 📈 Results Summary
 
-The performance (accuracy) of each algorithm highlights their specific strengths and limitations:
-
 | Dataset | K-Means | Hierarchical | Spectral |
 |:---|:---:|:---:|:---:|
 | **Iris** | 0.83 | 0.85 | 0.86 |
@@ -92,4 +90,5 @@ The visualization of the results are presented below.
 #### hierarchical
 ![image](images/circles3_hierarchical.png)
 #### spectral
+
 ![image](images/circles3_spectral.png)
